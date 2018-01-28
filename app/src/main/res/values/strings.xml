@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Send Mail</string>
+    <string name="toAddress">Enter To Email</string>
+    <string name="subject">Enter Message Subject</string>
+    <string name="message">Enter Message Body</string>
+    <string name="sendMail">Send Mail</string>
+    <string name="chooserTitle">Select email via ...</string>
+</resources>
